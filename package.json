@@ -19,6 +19,6 @@
   },
   "homepage": "http://aak2075.github.io/movieApp",
   "devDependencies": {
-    "gh-pages": "^1.0.0"
+    "gh-pages": "^1.1.0"
   }
 }
