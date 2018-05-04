@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d build"
 
   },
-  "homepage": "http://aak2075.github.io/movieApp",
+  "homepage": "http://github.com/aak2075/movie_app",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
